@@ -1,12 +1,12 @@
 package main
 
 import (
+	"./heartbeat"
+	"./locate"
+	"./objects"
 	"log"
 	"net/http"
 	"os"
-	"richie.com/richie/object-storage/chapter1/objects"
-	"richie.com/richie/object-storage/chapter2/dataServer/heartbeat"
-	"richie.com/richie/object-storage/chapter2/dataServer/locate"
 )
 
 func main() {

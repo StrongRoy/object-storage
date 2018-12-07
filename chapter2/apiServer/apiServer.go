@@ -1,10 +1,10 @@
 package main
 
 import (
+	"./objects"
 	"log"
 	"net/http"
 	"os"
-	"richie.com/richie/object-storage/chapter1/objects"
 )
 
 func main() {
