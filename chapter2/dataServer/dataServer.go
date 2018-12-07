@@ -1,4 +1,4 @@
-package dataServer
+package main
 
 import (
 	"log"
